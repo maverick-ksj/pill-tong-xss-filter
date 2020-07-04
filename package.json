@@ -1,0 +1,13 @@
+{
+  "name": "pill-tong-xss-filter",
+  "version": "1.0.0",
+  "description": "xss filter for pill-tong",
+  "main": "index.js",
+  "repository": "https://github.com/maverick-ksj/pill-tong-xss-filter.git",
+  "author": "HaeJun Seo <kan02134@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "xss": "^1.0.7"
+  }
+}
